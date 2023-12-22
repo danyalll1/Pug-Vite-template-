@@ -12,9 +12,4 @@ export default defineConfig({
     pug(options, locals),
    
   ],
-  // server:{
-  //   hmr:{
-  //     overlay:false
-  //   }
-  // }
 });
